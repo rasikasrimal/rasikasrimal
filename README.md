@@ -14,4 +14,4 @@
 
 ⚡ Fun fact: I love anime, Chess and Games -->
 
-Watching Anime 24x7 :)
+Watching Anime 24x7 :/
