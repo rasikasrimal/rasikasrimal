@@ -1,6 +1,6 @@
 ### 💫About Me :
 
-🔭 I’m currently working on (something)
+<!-- 🔭 I’m currently working on (something)
 
 🌱 I’m currently learning more about (something)
 
@@ -12,4 +12,6 @@
 
 📫 How to reach me: LinkedIn E-Mail
 
-⚡ Fun fact: I love anime, Chess and Games
+⚡ Fun fact: I love anime, Chess and Games -->
+
+Watching Anime 24x7 :)
