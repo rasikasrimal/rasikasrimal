@@ -13,5 +13,4 @@
 📫 How to reach me: LinkedIn E-Mail
 
 ⚡ Fun fact: I love anime, Chess and Games -->
-
-Watching Anime 24x7 :/
+Nothing...
