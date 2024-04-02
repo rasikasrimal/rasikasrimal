@@ -1,16 +1,17 @@
-### 💫About Me :
+<h2> Hey there! I'm Rasika Srimal <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!-- 🔭 I’m currently working on (something)
+<h3> 👨🏻‍💻 About Me </h3>
 
-🌱 I’m currently learning more about (something)
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 
-👯 I’m looking to collaborate on (something)
+<h3>🛠 Tech Stack</h3>
 
-🤔 I’m wondering to learn about (something)
-
-💬 Ask me about (something) or any of my previous projects.
-
-📫 How to reach me: LinkedIn E-Mail
-
-⚡ Fun fact: I love anime, Chess and Games -->
-Nothing...
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
