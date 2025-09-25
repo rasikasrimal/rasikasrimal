@@ -19,6 +19,11 @@
 
 ## 📊 GitHub Stats
 
+<!-- GITHUB_STATS:END -->
+
+![Daily updating contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=rasikasrimal&amp;theme=react-dark)
+
+
 <!-- GITHUB_STATS:START -->
 <div align="center">
   <table>
@@ -40,29 +45,7 @@
           <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=rasikasrimal&amp;theme=radical" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: Heartlytics" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=Heartlytics&amp;theme=radical" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: veilmarket-mvp" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=veilmarket-mvp&amp;theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: saga-foundry" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=saga-foundry&amp;theme=radical" />
-        </a>
-      </td>
     </tr>
   </table>
 </div>
-<!-- GITHUB_STATS:END -->
-
-![Daily updating contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=rasikasrimal&amp;theme=react-dark)
-
-
 ---
