@@ -1,0 +1,59 @@
+# Workflow to generate GitHub profile metrics panels using stalomeow/metrics@projects-v2
+name: Metrics
+
+on:
+  # Run once per day
+  schedule:
+    - cron: '0 0 * * *'
+  # Allow manual triggering from the Actions tab
+  workflow_dispatch:
+  # Refresh metrics whenever changes are pushed to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Generate the left-side metrics panel (followers, languages, starlists, RSS)
+      - name: Generate left metrics SVG
+        uses: stalomeow/metrics@projects-v2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          filename: metrics.left.svg
+          timezone: Asia/Shanghai
+          base: ""
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_limit: 6
+          plugin_languages_ignored: html, css
+          plugin_starlists: yes
+          plugin_starlists_limit: 6
+          plugin_rss: yes
+          plugin_rss_source: https://rasikasrimal.com/blog/rss
+          plugin_rss_limit: 3
+
+      # Generate the right-side metrics panel (topics and achievements)
+      - name: Generate right metrics SVG
+        uses: stalomeow/metrics@projects-v2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          filename: metrics.right.svg
+          timezone: Asia/Shanghai
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_ignored: member, worker, explorer, automator, infographile
