@@ -18,17 +18,3 @@
 </div>
 
 ---
-
-
-
-<!-- Full-width activity graph -->
-<div align="center">
-  <img src="assets/stats/activity-graph.svg" alt="Daily updating contributions graph" width="95%" />
-</div>
-
-<!-- Three stats in one row with fixed width and height -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/stats/github-stats.svg" alt="GitHub statistics showing stars, commits, and more" width="300" height="180" />
-  <img src="assets/stats/top-languages.svg" alt="Top languages used" width="300" height="180" />
-  <img src="assets/stats/contribution-streak.svg" alt="Contribution streak" width="300" height="180" />
-</div>
