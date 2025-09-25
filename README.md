@@ -18,3 +18,10 @@
 </div>
 
 ---
+
+
+
+<!-- Full-width activity graph -->
+<div align="center">
+  <img src="assets/stats/activity-graph.svg" alt="Daily updating contributions graph" width="95%" />
+</div>
