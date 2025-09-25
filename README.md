@@ -73,16 +73,6 @@ Inline daily SVG example:
 
 ---
 
-## 🌟 Featured Projects
-
-- [Heartlytics](https://github.com/rasikasrimal/Heartlytics) – Predictive heart disease analytics with clinician-friendly dashboards and batch scoring.
-- [veilmarket-mvp](https://github.com/rasikasrimal/veilmarket-mvp) – Privacy-first marketplace MVP with serverless APIs, TypeScript tooling, and automated audits.
-- [Cryptocurrency-Price-Prediction-Model](https://github.com/rasikasrimal/Cryptocurrency-Price-Prediction-Model) – Time-series forecasting pipelines for digital asset insights.
-- [saga-foundry](https://github.com/rasikasrimal/saga-foundry) – Modular TypeScript monorepo for event-driven workflows and product experiments.
-- [math_animated](https://github.com/rasikasrimal/math_animated) – Manim-powered mathematical visualizations for interactive storytelling.
-
----
-
 ## 📬 Contact &amp; Social
 
 <p align="center">
