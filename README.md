@@ -76,6 +76,8 @@
 
 ### 📅 Daily GitHub Actions Workflow
 
+Automated updates to the stats section are handled by [`update-readme.yml`](.github/workflows/update-readme.yml):
+
 ```yaml
 name: Update README stats
 
