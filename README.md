@@ -1,9 +1,9 @@
 <h1 align="center">Rasika Srimal</h1>
-<h3 align="center">Building intelligent, end-to-end experiences across data, cloud, and delightful UX</h3>
+<h3 align="center">Building intelligent, end-to-end data products across cloud, ML, and analytics</h3>
 
 <p align="center">
   <samp>
-    Full-stack &amp; ML Engineer · DevOps Automator · Product-minded Technologist
+    Full-stack Engineer · ML Engineer · Data Scientist &amp; Analyst
   </samp>
 </p>
 
@@ -11,10 +11,11 @@
 
 ## 🧬 Bio
 
-Hey there! I'm Rasika—an engineer who thrives at the intersection of data, design, and delivery. I enjoy shipping resilient cloud platforms, crafting user-focused analytics products, and translating research prototypes into production-ready systems. Recent highlights include:
+Hey there! I'm Rasika—an engineer who thrives at the intersection of full-stack development, machine learning, and decision intelligence. I enjoy shipping resilient cloud platforms, crafting user-focused analytics products, and translating research prototypes into production-ready systems. Recent highlights include:
 
 - ⚙️ Standing up AI-first automation for retail, healthcare, and fintech workloads
 - 🧠 Exploring RAG agents, deterministic study planners, and data-driven scheduling tools
+- 📈 Building analytics pipelines and decision dashboards with Python, SQL, and Power BI
 - 🚀 Scaling infrastructure with AWS, Terraform, Kubernetes, and serverless patterns
 
 ---
