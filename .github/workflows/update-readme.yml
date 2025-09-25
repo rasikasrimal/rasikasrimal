@@ -1,62 +1,25 @@
-name: Refresh GitHub profile stats
+run: |
+  set -euo pipefail
+  mkdir -p assets/stats
+  cache_bust="$(date +%s)"
+  retry() { for i in {1..5}; do "$@" && break || sleep 5; done }
 
-on:
-  schedule:
-    - cron: '0 3 * * *' # 03:00 UTC keeps API usage away from peak traffic
-  workflow_dispatch:
+  echo "Downloading GitHub profile summary"
+  retry curl --fail --silent --show-error --location \
+    "https://github-readme-stats.vercel.app/api?username=${GH_USERNAME}&count_private=true&show_icons=true&theme=radical&cache_seconds=1800&_=${cache_bust}" \
+    --output assets/stats/github-stats.svg
 
-permissions:
-  contents: write
+  echo "Downloading top languages card"
+  retry curl --fail --silent --show-error --location \
+    "https://github-readme-stats.vercel.app/api/top-langs/?username=${GH_USERNAME}&layout=compact&theme=radical&langs_count=8&_=${cache_bust}" \
+    --output assets/stats/top-languages.svg
 
-jobs:
-  refresh:
-    name: Update stat assets
-    runs-on: ubuntu-latest
+  echo "Downloading contribution streak card"
+  retry curl --fail --silent --show-error --location \
+    "https://streak-stats.demolab.com/?user=${GH_USERNAME}&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&_=${cache_bust}" \
+    --output assets/stats/contribution-streak.svg
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Regenerate SVG metrics
-        env:
-          GH_USERNAME: rasikasrimal
-        run: |
-          set -euo pipefail
-          mkdir -p assets/stats
-
-          cache_bust="$(date +%s)" # cache-busting so CDN-sourced SVGs refresh
-
-          echo "Downloading GitHub profile summary"
-          curl --fail --silent --show-error --location \
-            "https://github-readme-stats.vercel.app/api?username=${GH_USERNAME}&count_private=true&show_icons=true&theme=radical&cache_seconds=1800&_=${cache_bust}" \
-            --output assets/stats/github-stats.svg
-
-          echo "Downloading top languages card"
-          curl --fail --silent --show-error --location \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${GH_USERNAME}&layout=compact&theme=radical&langs_count=8&_=${cache_bust}" \
-            --output assets/stats/top-languages.svg
-
-          echo "Downloading contribution streak card"
-          curl --fail --silent --show-error --location \
-            "https://streak-stats.demolab.com/?user=${GH_USERNAME}&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&_=${cache_bust}" \
-            --output assets/stats/contribution-streak.svg
-
-          echo "Downloading contribution activity graph"
-          curl --fail --silent --show-error --location \
-            "https://github-readme-activity-graph.vercel.app/graph?username=${GH_USERNAME}&bg_color=0d1117&color=38bdf8&line=6366f1&point=22d3ee&hide_border=true&custom_title=Contribution%20Activity&_=${cache_bust}" \
-            --output assets/stats/activity-graph.svg
-
-      - name: Commit and push changes
-        run: |
-          set -euo pipefail
-          if git status --short | grep .; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/stats/
-            git commit -m "chore: refresh GitHub stats"
-            git push
-          else
-            echo "No stat updates detected"
-          fi
+  echo "Downloading contribution activity graph"
+  retry curl --fail --silent --show-error --location \
+    "https://github-readme-activity-graph.vercel.app/graph?username=${GH_USERNAME}&bg_color=0d1117&color=38bdf8&line=6366f1&point=22d3ee&hide_border=true&custom_title=Contribution%20Activity&_=${cache_bust}" \
+    --output assets/stats/activity-graph.svg
