@@ -13,6 +13,8 @@
     <a href="https://www.linkedin.com/in/rasikasrimal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/rasika_srimal" target="_blank"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
     <a href="https://www.youtube.com/@SNOW.0828" target="_blank"><img src="https://img.shields.io/badge/YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=ff0033" alt="YouTube"></a>
+
+
     <a href="https://rasikasrimal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   </p>
 </div>
@@ -81,6 +83,7 @@ I build intelligent, end-to-end data products that bridge raw signals and decisi
 </div>
 
 <div align="center">
+
   <img src="assets/stats/contribution-streak.svg" alt="Contribution streak" height="180" />
 </div>
 

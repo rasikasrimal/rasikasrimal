@@ -59,6 +59,7 @@ jobs:
             "https://github-readme-activity-graph.vercel.app/graph?username=${GH_USERNAME}&bg_color=0d1117&color=38bdf8&line=6366f1&point=22d3ee&hide_border=true&custom_title=Contribution%20Activity" \
             assets/stats/activity-graph.svg
 
+
       - name: Commit and push changes
         run: |
           set -euo pipefail
