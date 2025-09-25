@@ -1,9 +1,9 @@
 <h1 align="center">Rasika Srimal</h1>
-<h3 align="center">Crafting resilient, data-driven software in the cloud</h3>
+<h3 align="center">Building intelligent, end-to-end experiences across data, cloud, and delightful UX</h3>
 
 <p align="center">
   <samp>
-    Full-stack developer · Cloud-native enthusiast · Lifelong learner
+    Full-stack &amp; ML Engineer · DevOps Automator · Product-minded Technologist
   </samp>
 </p>
 
@@ -11,11 +11,11 @@
 
 ## 🧬 Bio
 
-Hey there! I'm Rasika, a full-stack engineer who loves blending clean design with scalable architectures. I enjoy solving complex problems, building cloud-native solutions, and automating everything from CI/CD pipelines to data workflows. My current interests include platform engineering, developer experience, and empowering teams with observability tooling.
+Hey there! I'm Rasika—an engineer who thrives at the intersection of data, design, and delivery. I enjoy shipping resilient cloud platforms, crafting user-focused analytics products, and translating research prototypes into production-ready systems. Recent highlights include:
 
-- ⚙️ Core skills: TypeScript, Python, React, Node.js, AWS, Terraform
-- 🚀 Passions: Developer productivity, data visualization, and polished UX
-- 🧠 Always learning: AI-assisted development, distributed systems, and DevOps culture
+- ⚙️ Standing up AI-first automation for retail, healthcare, and fintech workloads
+- 🧠 Exploring RAG agents, deterministic study planners, and data-driven scheduling tools
+- 🚀 Scaling infrastructure with AWS, Terraform, Kubernetes, and serverless patterns
 
 ---
 
@@ -27,36 +27,36 @@ Hey there! I'm Rasika, a full-stack engineer who loves blending clean design wit
     <tr>
       <td>
         <a href="https://github.com/rasikasrimal">
-          <img alt="Rasika's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rasikasrimal&count_private=true&show_icons=true&theme=radical" />
+          <img alt="Rasika's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rasikasrimal&amp;count_private=true&amp;show_icons=true&amp;theme=radical" />
         </a>
       </td>
       <td>
         <a href="https://github.com/rasikasrimal">
-          <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikasrimal&layout=compact&theme=radical" />
+          <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikasrimal&amp;layout=compact&amp;theme=radical" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/rasikasrimal">
-          <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=rasikasrimal&theme=radical" />
+          <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=rasikasrimal&amp;theme=radical" />
         </a>
       </td>
       <td>
         <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&repo=portfolio&theme=radical" />
+          <img alt="Pinned repository: Heartlytics" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=Heartlytics&amp;theme=radical" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: cloud-control-center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&repo=cloud-control-center&theme=radical" />
+          <img alt="Pinned repository: veilmarket-mvp" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=veilmarket-mvp&amp;theme=radical" />
         </a>
       </td>
       <td>
         <a href="https://github.com/rasikasrimal?tab=repositories">
-          <img alt="Pinned repository: insightflow" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&repo=insightflow&theme=radical" />
+          <img alt="Pinned repository: saga-foundry" src="https://github-readme-stats.vercel.app/api/pin/?username=rasikasrimal&amp;repo=saga-foundry&amp;theme=radical" />
         </a>
       </td>
     </tr>
@@ -68,25 +68,28 @@ Hey there! I'm Rasika, a full-stack engineer who loves blending clean design wit
 
 Inline daily SVG example:
 
-![Daily updating contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=rasikasrimal&theme=react-dark)
+![Daily updating contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=rasikasrimal&amp;theme=react-dark)
 
 ---
 
 ## 🌟 Featured Projects
 
-- [Cloud Control Center](https://github.com/rasikasrimal/cloud-control-center) – Infrastructure-as-code toolkit and dashboards for automating multi-cloud provisioning.
-- [InsightFlow](https://github.com/rasikasrimal/insightflow) – Real-time analytics pipeline with event-driven microservices and rich data visualizations.
-- [UX Patterns Library](https://github.com/rasikasrimal/ux-patterns) – Accessible component system and design tokens for rapid UI prototyping.
+- [Heartlytics](https://github.com/rasikasrimal/Heartlytics) – Predictive heart disease analytics with clinician-friendly dashboards and batch scoring.
+- [veilmarket-mvp](https://github.com/rasikasrimal/veilmarket-mvp) – Privacy-first marketplace MVP with serverless APIs, TypeScript tooling, and automated audits.
+- [Cryptocurrency-Price-Prediction-Model](https://github.com/rasikasrimal/Cryptocurrency-Price-Prediction-Model) – Time-series forecasting pipelines for digital asset insights.
+- [saga-foundry](https://github.com/rasikasrimal/saga-foundry) – Modular TypeScript monorepo for event-driven workflows and product experiments.
+- [math_animated](https://github.com/rasikasrimal/math_animated) – Manim-powered mathematical visualizations for interactive storytelling.
 
 ---
 
-## 📬 Contact & Social
+## 📬 Contact &amp; Social
 
 <p align="center">
-  <a href="mailto:rasika@example.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rasikasrimal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/rasikasrimal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://rasikasrimal.dev"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="mailto:hello@rasikasrimal.dev"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rasikasrimal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/rasikasrimal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
+  <a href="https://www.youtube.com/@rasikasrimal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
+  <a href="https://rasikasrimal.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -94,7 +97,7 @@ Inline daily SVG example:
 ## 🛠️ Automation Notes
 
 <!-- README_GENERATION:START -->
-This profile README is automatically regenerated every day using GitHub Actions. The workflow checks out the repository, updates the SVG badges above, and commits the refreshed README back to the main branch.
+This profile README is automatically regenerated every day using GitHub Actions. The workflow checks out the repository, refreshes the stats SVGs above, and commits the refreshed README back to the default branch so your profile always reflects the latest activity.
 <!-- README_GENERATION:END -->
 
 ![Auto Update](https://github.com/rasikasrimal/rasikasrimal/actions/workflows/update-readme.yml/badge.svg)
@@ -112,17 +115,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull latest README template
+      - name: Update dynamic README assets
         run: |
           echo "Updating stats SVGs"
-          # Add commands or scripts that refresh badges/statistics here.
-          # e.g. curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=rasikasrimal&count_private=true&show_icons=true&theme=radical"
+          # This is where you would call scripts or APIs that rebuild the stat images.
+          # Example (uncomment when ready):
+          # curl -o metrics.svg "https://github-readme-stats.vercel.app/api?username=rasikasrimal&count_private=true&show_icons=true&theme=radical"
 
       - name: Commit and push changes
         run: |
