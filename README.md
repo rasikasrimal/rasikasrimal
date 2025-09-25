@@ -9,16 +9,7 @@
 
 ---
 
-## 🧬 Bio
 
-Hey there! I'm Rasika—an engineer who thrives at the intersection of full-stack development, machine learning, and decision intelligence. I enjoy shipping resilient cloud platforms, crafting user-focused analytics products, and translating research prototypes into production-ready systems. Recent highlights include:
-
-- ⚙️ Standing up AI-first automation for retail, healthcare, and fintech workloads
-- 🧠 Exploring RAG agents, deterministic study planners, and data-driven scheduling tools
-- 📈 Building analytics pipelines and decision dashboards with Python, SQL, and Power BI
-- 🚀 Scaling infrastructure with AWS, Terraform, Kubernetes, and serverless patterns
-
----
 
 ## 📊 GitHub Stats
 
