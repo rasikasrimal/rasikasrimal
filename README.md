@@ -1,27 +1,86 @@
-<div align="center">
+# Hi, I'm Rasika Srimal
 
-  <h1><span style="background:linear-gradient(90deg,#38bdf8,#a855f7);-webkit-background-clip:text;color:transparent;">Rasika Srimal</span></h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&width=435&lines=Turning+ideas+into+intelligent+experiences" alt="Typing introduction" />
-  </p>
+Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs.
 
-
-  <p><samp>Full-stack Engineer · Machine Learning · Data Science &amp; Analysis</samp></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/rasikasrimal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/rasika_srimal" target="_blank"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-    <a href="https://www.youtube.com/@SNOW.0828" target="_blank"><img src="https://img.shields.io/badge/YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=ff0033" alt="YouTube"></a>
-    <a href="https://rasikasrimal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  </p>
-</div>
+- Location: Sri Lanka
+- Focus: Full‑stack engineering, data/ML applications
+- Tech: Next.js, TypeScript, React, Python, Java, SQL
 
 ---
 
+## Tech Stack
 
+### Core
 
-<!-- Full-width activity graph -->
-<div align="center">
-  <img src="assets/stats/activity-graph.svg" alt="Daily updating contributions graph" width="95%" />
-</div>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="SQL / MySQL" />
+</p>
+
+### Web & Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+</p>
+
+### Backend, Data & ML
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
+</p>
+
+---
+
+## Selected Projects
+
+- **Heartlytics** – Heart disease prediction web app with batch CSV uploads, dashboards, and PDF reporting.  
+  Stack: Python (ML), SQLite, Bootstrap, Plotly.
+
+- **InsightLedger** – Personal finance workspace for categorizing transactions, budgeting, and analytics.  
+  Stack: Node.js, Express, TypeScript, MongoDB, React.
+
+- **Spaced Repetition App** – Local‑first study companion with adaptive scheduling and offline support.  
+  Stack: Next.js, React, TypeScript, Tailwind CSS.
+
+---
+
+## What I’m Looking For
+
+I’m open to opportunities in:
+
+- Full‑stack engineering (TypeScript / React / Next.js)
+- Data‑heavy applications and analytics dashboards
+- ML‑powered products where models meet real users
+
+If you have an interesting idea or role around ML, data, or full‑stack work, I’d be happy to talk.
+
+---
+
+## Connect
+
+- Portfolio: [rasikasrimal.com](https://rasikasrimal.com)
+- GitHub: [@rasikasrimal](https://github.com/rasikasrimal)
+- LinkedIn: [linkedin.com/in/rasikasrimal](https://www.linkedin.com/in/rasikasrimal/)
+- Email: `rasikasrimal.contact@gmail.com`
