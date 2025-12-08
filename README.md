@@ -51,18 +51,7 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
 </p>
 
----
 
-## Selected Projects
-
-- **Heartlytics** – Heart disease prediction web app with batch CSV uploads, dashboards, and PDF reporting.  
-  Stack: Python (ML), SQLite, Bootstrap, Plotly.
-
-- **InsightLedger** – Personal finance workspace for categorizing transactions, budgeting, and analytics.  
-  Stack: Node.js, Express, TypeScript, MongoDB, React.
-
-- **Spaced Repetition App** – Local‑first study companion with adaptive scheduling and offline support.  
-  Stack: Next.js, React, TypeScript, Tailwind CSS.
 
 ---
 
