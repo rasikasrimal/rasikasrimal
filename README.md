@@ -8,6 +8,16 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
 
 ---
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/github-stats.svg" alt="GitHub Stats" />
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/contribution-streak.svg" alt="Contribution Streak" />
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/activity-graph.svg" alt="Activity Graph" />
+</p>
+
+---
+
 ## Tech Stack
 
 ### Core
