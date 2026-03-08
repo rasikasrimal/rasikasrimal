@@ -1,28 +1,46 @@
-# Hi, I'm Rasika Srimal
+<img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/hero-gradient-dark.svg" width="100%" alt="Hero gradient banner" />
+
+<h1 align="center">Hi 👋, I'm Rasika Srimal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+%26+ML+Engineer;Building+Data-Driven+Products" alt="Animated text: Full-Stack Developer, Data and ML Engineer, Building Data-Driven Products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rasikasrimal&style=flat-square&color=6366f1" alt="Profile views" />
+</p>
 
 Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs.
 
-- Location: Sri Lanka
-- Focus: Full‑stack engineering, data/ML applications
-- Tech: Next.js, TypeScript, React, Python, Java, SQL
+- 📍 Location: Sri Lanka
+- 🔭 Focus: Full‑stack engineering, data/ML applications
+- 💻 Tech: Next.js, TypeScript, React, Python, Java, SQL
+- 🌱 Currently Learning: LLM fine‑tuning, LangChain, and cloud‑native architectures
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/github-stats.svg" alt="GitHub Stats" />
   <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/contribution-streak.svg" alt="Contribution Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/top-languages.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
+</p>
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Core
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
@@ -60,25 +78,25 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
 </p>
 
-
-
 ---
 
-## What I’m Looking For
+## 🚀 What I'm Looking For
 
-I’m open to opportunities in:
+I'm open to opportunities in:
 
 - Full‑stack engineering (TypeScript / React / Next.js)
 - Data‑heavy applications and analytics dashboards
 - ML‑powered products where models meet real users
 
-If you have an interesting idea or role around ML, data, or full‑stack work, I’d be happy to talk.
+If you have an interesting idea or role around ML, data, or full‑stack work, I'd be happy to talk.
 
 ---
 
-## Connect
+## 🤝 Connect
 
-- Portfolio: [rasikasrimal.com](https://rasikasrimal.com)
-- GitHub: [@rasikasrimal](https://github.com/rasikasrimal)
-- LinkedIn: [linkedin.com/in/rasikasrimal](https://www.linkedin.com/in/rasikasrimal/)
-- Email: `rasikasrimal.contact@gmail.com`
+<p align="left">
+  <a href="https://rasikasrimal.com"><img src="https://img.shields.io/badge/Portfolio-rasikasrimal.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/rasikasrimal"><img src="https://img.shields.io/badge/GitHub-rasikasrimal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rasikasrimal/"><img src="https://img.shields.io/badge/LinkedIn-rasikasrimal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rasikasrimal.contact@gmail.com"><img src="https://img.shields.io/badge/Email-rasikasrimal.contact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
