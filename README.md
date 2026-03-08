@@ -1,14 +1,6 @@
-<img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/hero-gradient-dark.svg" width="100%" alt="Hero gradient banner" />
 
 <h1 align="center">Hi 👋, I'm Rasika Srimal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+%26+ML+Engineer;Building+Data-Driven+Products" alt="Animated text: Full-Stack Developer, Data and ML Engineer, Building Data-Driven Products" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rasikasrimal&style=flat-square&color=6366f1" alt="Profile views" />
-</p>
 
 Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs.
 
@@ -26,13 +18,6 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/contribution-streak.svg" alt="Contribution Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/top-languages.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
-</p>
 
 ---
 
