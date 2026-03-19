@@ -1,29 +1,32 @@
 # Hi, I'm Rasika Srimal
 
-Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs.
-
-- Location: Sri Lanka
-- Focus: Full‑stack engineering, data/ML applications
-- Tech: Next.js, TypeScript, React, Python, Java, SQL
-
----
-
-## GitHub Stats
+Full-stack developer and data/ML engineer focused on building data-driven products, analytics dashboards, and performant web applications. I enjoy taking ideas from concept to production, from designing APIs and training models to shipping clean, usable interfaces.
 
 <p align="left">
-  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/github-stats.svg" alt="GitHub Stats" />
-  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/contribution-streak.svg" alt="Contribution Streak" />
-  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/activity-graph.svg" alt="Activity Graph" />
+  <a href="https://rasikasrimal.com">Portfolio</a> |
+  <a href="https://github.com/rasikasrimal">GitHub</a> |
+  <a href="https://www.linkedin.com/in/rasikasrimal/">LinkedIn</a> |
+  <a href="mailto:rasikasrimal.contact@gmail.com">Email</a>
 </p>
 
----
+<details open>
+<summary><b>About Me</b></summary>
+<br>
 
-## Tech Stack
+- Based in Sri Lanka
+- Working across full-stack engineering and data/ML applications
+- Interested in products that combine strong backend systems, thoughtful UI, and practical use of data
+- Open to opportunities in full-stack engineering, analytics-heavy products, and ML-powered user experiences
 
-### Core
+</details>
+
+<details>
+<summary><b>Tech Stack</b></summary>
+<br>
+
+**Core**
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
@@ -31,7 +34,7 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="SQL / MySQL" />
 </p>
 
-### Web & Frontend
+**Web and Frontend**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
@@ -41,7 +44,7 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
 </p>
 
-### Backend, Data & ML
+**Backend, Data, and ML**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" />
@@ -52,7 +55,7 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" />
 </p>
 
-### Tools
+**Tools**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
@@ -61,25 +64,38 @@ Full‑stack developer and data/ML engineer who enjoys building data‑driven pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
 </p>
 
+</details>
 
+<details>
+<summary><b>What I'm Building / Focus Areas</b></summary>
+<br>
 
----
+- Full-stack applications with React, Next.js, TypeScript, Python, and modern backend services
+- Data-heavy tools and dashboards that turn complex workflows into clear product experiences
+- ML-powered features where models support practical decisions, automation, or user-facing insight
+- Production-minded systems that balance performance, usability, and maintainability
 
-## What I’m Looking For
+</details>
 
-I’m open to opportunities in:
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br>
 
-- Full‑stack engineering (TypeScript / React / Next.js)
-- Data‑heavy applications and analytics dashboards
-- ML‑powered products where models meet real users
+<p align="left">
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/github-stats.svg" alt="GitHub Stats" />
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/contribution-streak.svg" alt="Contribution Streak" />
+  <img src="https://github.com/rasikasrimal/rasikasrimal/blob/main/assets/stats/activity-graph.svg" alt="Activity Graph" />
+</p>
 
-If you have an interesting idea or role around ML, data, or full‑stack work, I’d be happy to talk.
+</details>
 
----
-
-## Connect
+<details>
+<summary><b>Contact / Connect</b></summary>
+<br>
 
 - Portfolio: [rasikasrimal.com](https://rasikasrimal.com)
 - GitHub: [@rasikasrimal](https://github.com/rasikasrimal)
 - LinkedIn: [linkedin.com/in/rasikasrimal](https://www.linkedin.com/in/rasikasrimal/)
 - Email: `rasikasrimal.contact@gmail.com`
+
+</details>
