@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rasika Srimal</h1>
 
 
-Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs.
+Full‑stack developer and data/ML engineer who enjoys building data‑driven products, visual dashboards, and performant web apps. I like taking projects from idea to production: designing APIs, training models, and shipping clean UIs
 
 - 📍 Location: Sri Lanka
 - 🔭 Focus: Full‑stack engineering, data/ML applications
