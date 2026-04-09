@@ -77,7 +77,7 @@ If you have an interesting idea or role around ML, data, or full‑stack work, I
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect.
 
 <p align="left">
   <a href="https://rasikasrimal.com"><img src="https://img.shields.io/badge/Portfolio-rasikasrimal.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
