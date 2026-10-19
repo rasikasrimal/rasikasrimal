@@ -73,7 +73,7 @@ I'm open to opportunities in:
 - Data‑heavy applications and analytics dashboards
 - ML‑powered products where models meet real users
 
-If you have an interesting idea or role around ML, data, or full‑stack work, I'd be happy to talk.
+If you have an interesting idea or role around ML, data, or full‑stack work, I'd be happy to talk
 
 ---
 
